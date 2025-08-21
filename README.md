@@ -1,4 +1,4 @@
-# Pokemon Statistics Analysis
+# Pokémon Statistics Analysis
 
 ---
 
@@ -24,7 +24,7 @@ This proyect is under [GNU General Public License v3.0](https://www.gnu.org/lice
 
 # Justification
 
-We use the Pokémon universe as a practical case of study for data science. It transforms the game lore into quantitative insights, applyig statistical methods to answer common questions, and debunk or confirm these. 
+We use the Pokémon universe as a practical case of study for data science. It transforms the game lore into quantitative insights, applying statistical methods to answer common questions, and debunk or confirm these. 
 
 ---
 
@@ -59,7 +59,7 @@ For the **bivariate analysis** five statistically significant variable pairs wer
 
 - Speed–Defense: Near-zero covariance, suggesting independence between them, meaning a Pokémon can be both slow and highly defensive, or fast and weaker.
 
-A **regression analysis** was also conducted with Speed as the dependant vaiable and HP as the predicto. The simple linear regression's results indicated a statistically significant but weak positive relationship (β = 0.195, p < 0.001). The model explained only 3.05% of the variance (R² = 0.0305). This implies that HP is not a sufficient predictor of Speed, and other variables play a stronger role in determining Pokémon speed.
+A **regression analysis** was also conducted with Speed as the dependant variable and HP as the predicted one. The simple linear regression's results indicated a statistically significant but weak positive relationship (β = 0.195, p < 0.001). The model explained only 3.05% of the variance (R² = 0.0305). This implies that HP is not a sufficient predictor of Speed, and other variables play a stronger role in determining Pokémon speed.
 
 Finaly ANOVA tests were applied to compare HP and Speed scross Types and Generations. The results confirmed that differences in both variables across groups were statistically significant, Pokémon characteristics are strongly influenced by their categorical attributes (type and generation in this case).
 
