@@ -65,7 +65,7 @@ Finaly ANOVA tests were applied to compare HP and Speed scross Types and Generat
 
 ---
 
-# technologies used  
+# Technologies used  
 
 It was made both in Python and in R, you can find the code in the [Analisis_Pokemon_proyecto.ipynb](https://github.com/Marzerp/Pokemon_Statistics/blob/main/Analisis_Pokemon_proyecto.ipynb) for Pyhton and [AnalisisPokemon.R](https://github.com/Marzerp/Pokemon_Statistics/blob/main/AnalisisPokemon.R) for R. 
 
