@@ -22,7 +22,7 @@ This proyect is under [GNU General Public License v3.0](https://www.gnu.org/lice
 
 ---
 
-# Why this project?
+# Justification
 
 We use the Pokémon universe as a practical case of study for data science. It transforms the game lore into quantitative insights, applyig statistical methods to answer common questions, and debunk or confirm these. 
 
