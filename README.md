@@ -72,7 +72,7 @@ It was made both in Python and in R, you can find the code in the [Analisis_Poke
 - **Pandas**
 - **Numpy**
 - **Matplotlib**
-- **Scipy*
+- **Scipy**
 
 
 
